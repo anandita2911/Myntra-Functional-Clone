@@ -16,7 +16,6 @@ This project is a functional clone of Myntra, a popular online shopping platform
 git clone https://github.com/anandita2911/Myntra-Functional-Clone.git
 
 # Open the project folder
-cd myntra-clone
 
 # Open index.html in your preferred web browser
 # Fork the repository
