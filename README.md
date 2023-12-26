@@ -18,8 +18,13 @@ git clone https://github.com/anandita2911/Myntra-Functional-Clone.git
 # Open the project folder
 
 # Open index.html in your preferred web browser
+
+
+```
+##Contribution
+```bash
 # Fork the repository
-git clone https://github.com/your-username/myntra-clone.git
+git clone https://github.com/anandita2911/Myntra-Functional-Clone.git
 
 # Create a new branch
 git checkout -b feature/my-feature
